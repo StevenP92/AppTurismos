@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ValleTuristica</string>
+    <string name="sitios_turisticos">Sitios Turisticos</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="operadores_turisticos">Operadores Turisticos</string>
+    <string name="visualizar">Visualizar</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Borrar</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="agregar">Agregar</string>
+</resources>
